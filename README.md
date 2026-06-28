@@ -19,7 +19,8 @@ Repositori ini berisi materi pembelajaran, slide teori, latihan coding (Jupyter 
 │   │   ├── 11_python_ml_clustering.ipynb
 │   │   ├── 12_python_ml_timeseries.ipynb
 │   │   ├── 13_python_ml_streamlit_basics.ipynb
-│   │   └── 14_python_ml_streamlit_deploy.ipynb
+│   │   ├── 14_python_ml_streamlit_deploy.ipynb
+│   │   └── 15_python_ml_finalisasi_dan_sop.ipynb
 │   │
 │   ├── slides/             <- Slide presentasi materi teori & Visual ML (Orange)
 │   │   ├── 01_python_ml_intro1.pdf
@@ -46,7 +47,8 @@ Seluruh materi di dalam folder `courses/` diselaraskan dengan Rencana Pembelajar
 3. **Minggu 8**: Evaluasi Tengah Semester (ETS) - Pitching Proposal.
 4. **Minggu 9 - 12 (Python ML)**: Implementasi algoritma ML menggunakan library `scikit-learn` pada notebook pertemuan 09 s.d 12.
 5. **Minggu 13 - 14 (Streamlit)**: Pembuatan dashboard interaktif dan deployment aplikasi web ML ke Streamlit Cloud (`courses/streamlit_apps/`).
-6. **Minggu 15 - 16**: Finalisasi proyek tim & Evaluasi Akhir Semester (App Fair).
+6. **Minggu 15 (Finalisasi & SOP)**: Finalisasi proyek tim, pembuatan Standard Operating Procedure (SOP), Glossary istilah, dan pengujian sistem (`15_python_ml_finalisasi_dan_sop.ipynb`).
+7. **Minggu 16**: Evaluasi Akhir Semester (App Fair).
 
 ---
 *Selamat belajar dan berkesperimen dengan Machine Learning!* 🚀
